@@ -1,0 +1,88 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+	}
+
+	body{
+	background-image:url('PicsArt.jpg');
+	background-repeat: no-repeat;
+  	background-size: 690px 256px;
+  	/*background-color: pink;*/
+  	
+	}
+
+	.data a{
+		text-decoration: none;
+	}
+
+	.data pre{
+		margin-left: 320px;
+	}
+
+	.data a img{
+		border-radius: 50px;
+		height: 28px;
+		width: 28px;
+		padding: 8px;
+	}
+
+	
+	.Information i{
+		font-size: 16px;
+		color: rgb(90,23,123);
+		margin-left: 390px;
+		margin-top: 13px;
+		padding: 0px;
+	}
+	
+	.Information a{
+		text-decoration: none;
+		color: rgb(90,23,123);
+		font-size: 16px;
+		margin-left: 3px;
+
+	}
+
+
+	.Identity p{
+		color: white;
+		font-size: 21px;
+		margin-top: 30px;
+		margin-left: 24px;
+		
+	}
+
+
+	.Identity p2{
+		font-size: 14px;
+		color: white;
+		margin-top: 5px;
+		margin-left: 67px;
+		
+	}
+
+	.RUET{
+		line-height: 23px;
+		height: 30px;
+		width: 363px;
+		margin-left: 317px;
+		margin-top: -38px;
+	}
+     
+
+    .RUET p{
+    border: 2px solid pink; 
+	background-image: linear-gradient(-90deg, rgba(90,23,123,.5), rgba(255,46,159,.5));
+	}
+
+	.RUET img{
+		float:right;
+		height: 20px;
+		width: 20px;
+	}
+
+
+	.cse_section {
+    margin-top: -15px;
+}
